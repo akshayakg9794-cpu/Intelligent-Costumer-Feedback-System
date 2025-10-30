@@ -1,0 +1,41 @@
+FeedbackID,Feedback,Sentiment_Label,Source,Date,Cleaned_Feedback,Processed_Feedback
+219,Customer service response time is too slow.,Negative,Email,2025-09-09,customer service response time is too slow,customer service response time slow
+1032,"It's okay, nothing special. I might try it again.",Neutral,Chat Log,2025-09-12,its okay nothing special i might try it again,okay nothing special might try
+545,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-05,love the new update everything is much smoother now,love new update everything much smoother
+461,"  <p>Love the new update, everything is much smoother now!</p>  ",Positive,Social Media,2025-09-11,love the new update everything is much smoother now,love new update everything much smoother
+648,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-18,neutral feeling about the new features,neutral feeling new feature
+398,I can't find the setting I need.,Neutral,Social Media,2025-09-08,i cant find the setting i need,cant find setting need
+106,The app crashed during payment. Very disappointed.,Negative,Social Media,2025-09-16,the app crashed during payment very disappointed,app crashed payment disappointed
+1035,"It's okay, nothing special.",Neutral,Chat Log,2025-09-15,its okay nothing special,okay nothing special
+8,  <p>The website is very confusing to navigate.</p>  ,Negative,Chat Log,2025-09-08,the website is very confusing to navigate,website confusing navigate
+953,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-23,simply the best experience ive had so far,simply best experience ive far
+657,  <p>Simply the best experience I've had so far. Highly recommend!</p>  ,Positive,Chat Log,2025-09-27,simply the best experience ive had so far highly recommend,simply best experience ive far highly recommend
+329,The website is very confusing to navigate.,Negative,Social Media,2025-09-29,the website is very confusing to navigate,website confusing navigate
+573,Customer service response time is too slow. Very disappointed.,Negative,Social Media,2025-09-03,customer service response time is too slow very disappointed,customer service response time slow disappointed
+829,The product arrived damaged and late.,Negative,Social Media,2025-09-19,the product arrived damaged and late,product arrived damaged late
+134,I can't find the setting I need. I might try it again.,Neutral,Social Media,2025-09-14,i cant find the setting i need i might try it again,cant find setting need might try
+1044,  <p>Excellent quality and fast delivery!</p>  ,Positive,Email,2025-09-24,excellent quality and fast delivery,excellent quality fast delivery
+972,  <p>The product arrived damaged and late.</p>  ,Negative,Email,2025-09-12,the product arrived damaged and late,product arrived damaged late
+722,The product arrived damaged and late. Very disappointed.,Negative,Email,2025-09-02,the product arrived damaged and late very disappointed,product arrived damaged late disappointed
+247,The app crashed during payment.,Negative,Chat Log,2025-09-07,the app crashed during payment,app crashed payment
+527,  <p>Customer service response time is too slow.</p>  ,Negative,Email,2025-09-17,customer service response time is too slow,customer service response time slow
+1080,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-30,love the new update everything is much smoother now highly recommend,love new update everything much smoother highly recommend
+864,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-24,excellent quality and fast delivery,excellent quality fast delivery
+957,Neutral feeling about the new features. I might try it again.,Neutral,Social Media,2025-09-27,neutral feeling about the new features i might try it again,neutral feeling new feature might try
+979,  <p>Neutral feeling about the new features.</p>  ,Neutral,Social Media,2025-09-19,neutral feeling about the new features,neutral feeling new feature
+843,"  <p>It's okay, nothing special.</p>  ",Neutral,Social Media,2025-09-03,its okay nothing special,okay nothing special
+681,The website is very confusing to navigate. Very disappointed.,Negative,Social Media,2025-09-21,the website is very confusing to navigate very disappointed,website confusing navigate disappointed
+152,  <p>I can't find the setting I need.</p>  ,Neutral,Social Media,2025-09-02,i cant find the setting i need,cant find setting need
+802,Simply the best experience I've had so far. Highly recommend!,Positive,Chat Log,2025-09-22,simply the best experience ive had so far highly recommend,simply best experience ive far highly recommend
+231,  <p>The product arrived damaged and late. Very disappointed.</p>  ,Negative,Chat Log,2025-09-21,the product arrived damaged and late very disappointed,product arrived damaged late disappointed
+373,  <p>I can't find the setting I need. I might try it again.</p>  ,Neutral,Social Media,2025-09-13,i cant find the setting i need i might try it again,cant find setting need might try
+1093,Excellent quality and fast delivery! Highly recommend!,Positive,Chat Log,2025-09-13,excellent quality and fast delivery highly recommend,excellent quality fast delivery highly recommend
+1043,  <p>Simply the best experience I've had so far.</p>  ,Positive,Chat Log,2025-09-23,simply the best experience ive had so far,simply best experience ive far
+453,  <p>The app crashed during payment. Very disappointed.</p>  ,Negative,Email,2025-09-03,the app crashed during payment very disappointed,app crashed payment disappointed
+967,  <p>The app crashed during payment.</p>  ,Negative,Chat Log,2025-09-07,the app crashed during payment,app crashed payment
+667,  <p>Customer service response time is too slow. Very disappointed.</p>  ,Negative,Social Media,2025-09-07,customer service response time is too slow very disappointed,customer service response time slow disappointed
+941,  <p>Neutral feeling about the new features. I might try it again.</p>  ,Neutral,Email,2025-09-11,neutral feeling about the new features i might try it again,neutral feeling new feature might try
+925,  <p>The website is very confusing to navigate. Very disappointed.</p>  ,Negative,Email,2025-09-25,the website is very confusing to navigate very disappointed,website confusing navigate disappointed
+567,"  <p>It's okay, nothing special. I might try it again.</p>  ",Neutral,Chat Log,2025-09-27,its okay nothing special i might try it again,okay nothing special might try
+191,  <p>Excellent quality and fast delivery! Highly recommend!</p>  ,Positive,Email,2025-09-11,excellent quality and fast delivery highly recommend,excellent quality fast delivery highly recommend
+659,"  <p>Love the new update, everything is much smoother now! Highly recommend!</p>  ",Positive,Social Media,2025-09-29,love the new update everything is much smoother now highly recommend,love new update everything much smoother highly recommend

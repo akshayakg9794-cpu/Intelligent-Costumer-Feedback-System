@@ -1,0 +1,1111 @@
+FeedbackID,Feedback,Sentiment_Label,Source,Date
+219,Customer service response time is too slow.,Negative,Email,2025-09-09
+1032,"It's okay, nothing special. I might try it again.",Neutral,Chat Log,2025-09-12
+548,,Negative,Chat Log,2025-09-08
+545,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-05
+461,"  <p>Love the new update, everything is much smoother now!</p>  ",Positive,Social Media,2025-09-11
+648,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-18
+398,I can't find the setting I need.,Neutral,Social Media,2025-09-08
+106,The app crashed during payment. Very disappointed.,Negative,Social Media,2025-09-16
+1035,"It's okay, nothing special.",Neutral,Chat Log,2025-09-15
+8,  <p>The website is very confusing to navigate.</p>  ,Negative,Chat Log,2025-09-08
+320,"It's okay, nothing special.",Neutral,Chat Log,2025-09-20
+319,"It's okay, nothing special.",Neutral,Chat Log,2025-09-19
+953,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-23
+946,The app crashed during payment. Very disappointed.,Negative,Email,2025-09-16
+670,Customer service response time is too slow.,Negative,Chat Log,2025-09-10
+657,  <p>Simply the best experience I've had so far. Highly recommend!</p>  ,Positive,Chat Log,2025-09-27
+329,The website is very confusing to navigate.,Negative,Social Media,2025-09-29
+968,"It's okay, nothing special.",Neutral,Email,2025-09-08
+113,The app crashed during payment. Very disappointed.,Negative,Social Media,2025-09-23
+429,Customer service response time is too slow.,Negative,Email,2025-09-09
+643,"It's okay, nothing special. I might try it again.",Neutral,Chat Log,2025-09-13
+573,Customer service response time is too slow. Very disappointed.,Negative,Social Media,2025-09-03
+791,"It's okay, nothing special.",Neutral,Social Media,2025-09-11
+217,Customer service response time is too slow.,Negative,Social Media,2025-09-07
+834,The website is very confusing to navigate.,Negative,Social Media,2025-09-24
+542,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-02
+314,The website is very confusing to navigate.,Negative,Social Media,2025-09-14
+829,The product arrived damaged and late.,Negative,Social Media,2025-09-19
+553,The website is very confusing to navigate.,Negative,Email,2025-09-13
+134,I can't find the setting I need. I might try it again.,Neutral,Social Media,2025-09-14
+334,Customer service response time is too slow.,Negative,Social Media,2025-09-04
+1044,  <p>Excellent quality and fast delivery!</p>  ,Positive,Email,2025-09-24
+972,  <p>The product arrived damaged and late.</p>  ,Negative,Email,2025-09-12
+1075,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-25
+918,The product arrived damaged and late.,Negative,Social Media,2025-09-18
+1003,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-13
+145,I can't find the setting I need.,Neutral,Email,2025-09-25
+722,The product arrived damaged and late. Very disappointed.,Negative,Email,2025-09-02
+734,Customer service response time is too slow.,Negative,Chat Log,2025-09-14
+119,The product arrived damaged and late.,Negative,Social Media,2025-09-29
+524,"  <p>Love the new update, everything is much smoother now!</p>  ",Positive,Email,2025-09-14
+392,The product arrived damaged and late.,Negative,Social Media,2025-09-02
+247,The app crashed during payment.,Negative,Chat Log,2025-09-07
+105,The website is very confusing to navigate.,Negative,Email,2025-09-15
+406,The app crashed during payment.,Negative,Social Media,2025-09-16
+464,The website is very confusing to navigate.,Negative,Email,2025-09-14
+94,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-04
+527,  <p>Customer service response time is too slow.</p>  ,Negative,Email,2025-09-17
+65,"It's okay, nothing special. I might try it again.",Neutral,Chat Log,2025-09-05
+888,"  <p>Love the new update, everything is much smoother now!</p>  ",Positive,Social Media,2025-09-18
+48,"It's okay, nothing special.",Neutral,Social Media,2025-09-18
+1080,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-30
+335,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-05
+127,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-07
+864,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-24
+379,The product arrived damaged and late.,Negative,Email,2025-09-19
+957,Neutral feeling about the new features. I might try it again.,Neutral,Social Media,2025-09-27
+421,The product arrived damaged and late.,Negative,Social Media,2025-09-01
+479,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-29
+979,  <p>Neutral feeling about the new features.</p>  ,Neutral,Social Media,2025-09-19
+708,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-18
+84,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-24
+712,"It's okay, nothing special.",Neutral,Chat Log,2025-09-22
+887,I can't find the setting I need. I might try it again.,Neutral,Chat Log,2025-09-17
+569,Neutral feeling about the new features.,Neutral,Email,2025-09-29
+607,Customer service response time is too slow. Very disappointed.,Negative,Social Media,2025-09-07
+501,The app crashed during payment. Very disappointed.,Negative,Social Media,2025-09-21
+843,"  <p>It's okay, nothing special.</p>  ",Neutral,Social Media,2025-09-03
+6,Neutral feeling about the new features.,Neutral,Email,2025-09-06
+332,Simply the best experience I've had so far.,Positive,Social Media,2025-09-02
+683,"It's okay, nothing special. I might try it again.",Neutral,Email,2025-09-23
+26,Customer service response time is too slow.,Negative,Social Media,2025-09-26
+118,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-28
+1098,The website is very confusing to navigate.,Negative,Chat Log,2025-09-18
+520,Simply the best experience I've had so far.,Positive,Email,2025-09-10
+242,I can't find the setting I need. I might try it again.,Neutral,Email,2025-09-02
+606,Customer service response time is too slow.,Negative,Social Media,2025-09-06
+350,The website is very confusing to navigate.,Negative,Email,2025-09-20
+352,The app crashed during payment.,Negative,Social Media,2025-09-22
+681,The website is very confusing to navigate. Very disappointed.,Negative,Social Media,2025-09-21
+102,Neutral feeling about the new features. I might try it again.,Neutral,Chat Log,2025-09-12
+750,I can't find the setting I need. I might try it again.,Neutral,Chat Log,2025-09-30
+539,"It's okay, nothing special.",Neutral,Chat Log,2025-09-29
+753,Customer service response time is too slow.,Negative,Chat Log,2025-09-03
+752,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-02
+171,Excellent quality and fast delivery!,Positive,Email,2025-09-21
+655,Neutral feeling about the new features.,Neutral,Email,2025-09-25
+170,Customer service response time is too slow.,Negative,Chat Log,2025-09-20
+152,  <p>I can't find the setting I need.</p>  ,Neutral,Social Media,2025-09-02
+856,I can't find the setting I need.,Neutral,Email,2025-09-16
+802,Simply the best experience I've had so far. Highly recommend!,Positive,Chat Log,2025-09-22
+433,Simply the best experience I've had so far. Highly recommend!,Positive,Social Media,2025-09-13
+526,Excellent quality and fast delivery!,Positive,Email,2025-09-16
+815,I can't find the setting I need.,Neutral,Chat Log,2025-09-05
+1002,Neutral feeling about the new features.,Neutral,Social Media,2025-09-12
+221,The website is very confusing to navigate.,Negative,Social Media,2025-09-11
+342,  <p>I can't find the setting I need.</p>  ,Neutral,Email,2025-09-12
+710,  <p>The product arrived damaged and late.</p>  ,Negative,Social Media,2025-09-20
+104,Excellent quality and fast delivery!,Positive,Social Media,2025-09-14
+758,Excellent quality and fast delivery!,Positive,Email,2025-09-08
+497,The product arrived damaged and late. Very disappointed.,Negative,Chat Log,2025-09-17
+285,Excellent quality and fast delivery!,Positive,Social Media,2025-09-15
+894,"It's okay, nothing special.",Neutral,Social Media,2025-09-24
+614,Excellent quality and fast delivery!,Positive,Email,2025-09-14
+958,"It's okay, nothing special.",Neutral,Social Media,2025-09-28
+980,The website is very confusing to navigate.,Negative,Social Media,2025-09-20
+290,"It's okay, nothing special.",Neutral,Email,2025-09-20
+541,"It's okay, nothing special.",Neutral,Chat Log,2025-09-01
+1025,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-05
+933,  <p>I can't find the setting I need.</p>  ,Neutral,Email,2025-09-03
+20,Simply the best experience I've had so far.,Positive,Social Media,2025-09-20
+719,Customer service response time is too slow. Very disappointed.,Negative,Email,2025-09-29
+397,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-07
+394,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-04
+231,  <p>The product arrived damaged and late. Very disappointed.</p>  ,Negative,Chat Log,2025-09-21
+155,I can't find the setting I need.,Neutral,Email,2025-09-05
+807,Neutral feeling about the new features. I might try it again.,Neutral,Social Media,2025-09-27
+120,Neutral feeling about the new features.,Neutral,Email,2025-09-30
+714,Customer service response time is too slow.,Negative,Email,2025-09-24
+897,  <p>The product arrived damaged and late.</p>  ,Negative,Social Media,2025-09-27
+373,  <p>I can't find the setting I need. I might try it again.</p>  ,Neutral,Social Media,2025-09-13
+1093,Excellent quality and fast delivery! Highly recommend!,Positive,Chat Log,2025-09-13
+225,The product arrived damaged and late.,Negative,Social Media,2025-09-15
+451,Simply the best experience I've had so far.,Positive,Email,2025-09-01
+735,Customer service response time is too slow.,Negative,Email,2025-09-15
+351,Excellent quality and fast delivery!,Positive,Social Media,2025-09-21
+262,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-22
+650,I can't find the setting I need.,Neutral,Chat Log,2025-09-20
+904,Simply the best experience I've had so far. Highly recommend!,Positive,Chat Log,2025-09-04
+315,Customer service response time is too slow.,Negative,Email,2025-09-15
+912,Neutral feeling about the new features.,Neutral,Social Media,2025-09-12
+571,The website is very confusing to navigate.,Negative,Email,2025-09-01
+652,  <p>Excellent quality and fast delivery!</p>  ,Positive,Chat Log,2025-09-22
+952,"It's okay, nothing special.",Neutral,Email,2025-09-22
+214,Excellent quality and fast delivery! Highly recommend!,Positive,Social Media,2025-09-04
+1028,Excellent quality and fast delivery!,Positive,Social Media,2025-09-08
+154,Simply the best experience I've had so far.,Positive,Email,2025-09-04
+983,The app crashed during payment.,Negative,Chat Log,2025-09-23
+1015,"It's okay, nothing special.",Neutral,Social Media,2025-09-25
+488,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-08
+187,Neutral feeling about the new features.,Neutral,Social Media,2025-09-07
+325,Simply the best experience I've had so far.,Positive,Social Media,2025-09-25
+1043,  <p>Simply the best experience I've had so far.</p>  ,Positive,Chat Log,2025-09-23
+40,The website is very confusing to navigate.,Negative,Email,2025-09-10
+354,I can't find the setting I need. I might try it again.,Neutral,Email,2025-09-24
+1034,The website is very confusing to navigate.,Negative,Chat Log,2025-09-14
+453,  <p>The app crashed during payment. Very disappointed.</p>  ,Negative,Email,2025-09-03
+1042,"It's okay, nothing special.",Neutral,Social Media,2025-09-22
+570,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-30
+611,Simply the best experience I've had so far.,Positive,Email,2025-09-11
+81,"It's okay, nothing special.",Neutral,Social Media,2025-09-21
+625,Neutral feeling about the new features.,Neutral,Email,2025-09-25
+371,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-11
+692,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-02
+196,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Social Media,2025-09-16
+347,The app crashed during payment. Very disappointed.,Negative,Social Media,2025-09-17
+208,"It's okay, nothing special. I might try it again.",Neutral,Social Media,2025-09-28
+166,Excellent quality and fast delivery!,Positive,Social Media,2025-09-16
+588,Excellent quality and fast delivery! Highly recommend!,Positive,Chat Log,2025-09-18
+9,Neutral feeling about the new features.,Neutral,Email,2025-09-09
+355,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-25
+649,I can't find the setting I need.,Neutral,Email,2025-09-19
+9,Neutral feeling about the new features.,Neutral,Email,2025-09-09
+558,Simply the best experience I've had so far. Highly recommend!,Positive,Chat Log,2025-09-18
+205,  <p>Neutral feeling about the new features.</p>  ,Neutral,Social Media,2025-09-25
+349,The product arrived damaged and late.,Negative,Email,2025-09-19
+336,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-06
+156,The app crashed during payment.,Negative,Chat Log,2025-09-06
+890,Simply the best experience I've had so far.,Positive,Social Media,2025-09-20
+321,I can't find the setting I need.,Neutral,Email,2025-09-21
+742,  <p>Simply the best experience I've had so far.</p>  ,Positive,Social Media,2025-09-22
+175,The app crashed during payment.,Negative,Social Media,2025-09-25
+590,"It's okay, nothing special. I might try it again.",Neutral,Social Media,2025-09-20
+879,The product arrived damaged and late.,Negative,Social Media,2025-09-09
+835,Customer service response time is too slow.,Negative,Email,2025-09-25
+303,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-03
+422,The app crashed during payment.,Negative,Chat Log,2025-09-02
+971,I can't find the setting I need.,Neutral,Email,2025-09-11
+32,"It's okay, nothing special.",Neutral,Social Media,2025-09-02
+836,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-26
+427,The website is very confusing to navigate.,Negative,Chat Log,2025-09-07
+470,"It's okay, nothing special.",Neutral,Email,2025-09-20
+767,Simply the best experience I've had so far. Highly recommend!,Positive,Chat Log,2025-09-17
+474,The product arrived damaged and late.,Negative,Email,2025-09-24
+311,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-11
+348,Neutral feeling about the new features. I might try it again.,Neutral,Social Media,2025-09-18
+869,The product arrived damaged and late.,Negative,Email,2025-09-29
+390,Customer service response time is too slow.,Negative,Social Media,2025-09-30
+677,Simply the best experience I've had so far.,Positive,Email,2025-09-17
+328,I can't find the setting I need.,Neutral,Chat Log,2025-09-28
+198,Simply the best experience I've had so far.,Positive,Email,2025-09-18
+728,The website is very confusing to navigate.,Negative,Email,2025-09-08
+745,Neutral feeling about the new features.,Neutral,Social Media,2025-09-25
+420,The website is very confusing to navigate.,Negative,Chat Log,2025-09-30
+973,The website is very confusing to navigate.,Negative,Email,2025-09-13
+448,Neutral feeling about the new features.,Neutral,Email,2025-09-28
+1081,  <p>The product arrived damaged and late. Very disappointed.</p>  ,Negative,Email,2025-09-01
+19,"It's okay, nothing special. I might try it again.",Neutral,Chat Log,2025-09-19
+246,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-06
+1065,Neutral feeling about the new features.,Neutral,Social Media,2025-09-15
+261,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-21
+237,The app crashed during payment.,Negative,Social Media,2025-09-27
+792,I can't find the setting I need. I might try it again.,Neutral,Email,2025-09-12
+161,  <p>Neutral feeling about the new features.</p>  ,Neutral,Chat Log,2025-09-11
+685,The product arrived damaged and late. Very disappointed.,Negative,Email,2025-09-25
+950,The website is very confusing to navigate.,Negative,Social Media,2025-09-20
+533,Customer service response time is too slow.,Negative,Chat Log,2025-09-23
+462,"  <p>Love the new update, everything is much smoother now!</p>  ",Positive,Chat Log,2025-09-12
+178,The website is very confusing to navigate.,Negative,Chat Log,2025-09-28
+870,I can't find the setting I need.,Neutral,Social Media,2025-09-30
+405,Neutral feeling about the new features. I might try it again.,Neutral,Email,2025-09-15
+223,Customer service response time is too slow. Very disappointed.,Negative,Chat Log,2025-09-13
+706,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-16
+981,  <p>I can't find the setting I need. I might try it again.</p>  ,Neutral,Chat Log,2025-09-21
+586,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-16
+582,I can't find the setting I need. I might try it again.,Neutral,Chat Log,2025-09-12
+1077,Excellent quality and fast delivery!,Positive,Email,2025-09-27
+576,Excellent quality and fast delivery! Highly recommend!,Positive,Email,2025-09-06
+1024,The app crashed during payment.,Negative,Chat Log,2025-09-04
+128,I can't find the setting I need.,Neutral,Email,2025-09-08
+176,The app crashed during payment.,Negative,Email,2025-09-26
+245,"It's okay, nothing special.",Neutral,Email,2025-09-05
+709,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-19
+518,The app crashed during payment.,Negative,Social Media,2025-09-08
+967,  <p>The app crashed during payment.</p>  ,Negative,Chat Log,2025-09-07
+96,The product arrived damaged and late. Very disappointed.,Negative,Email,2025-09-06
+653,"It's okay, nothing special.",Neutral,Chat Log,2025-09-23
+457,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-07
+915,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-15
+849,"It's okay, nothing special.",Neutral,Social Media,2025-09-09
+730,The product arrived damaged and late.,Negative,Social Media,2025-09-10
+280,The app crashed during payment. Very disappointed.,Negative,Social Media,2025-09-10
+1029,The app crashed during payment. Very disappointed.,Negative,Email,2025-09-09
+793,"It's okay, nothing special.",Neutral,Email,2025-09-13
+271,The website is very confusing to navigate.,Negative,Email,2025-09-01
+746,Excellent quality and fast delivery! Highly recommend!,Positive,Email,2025-09-26
+877,  <p>I can't find the setting I need.</p>  ,Neutral,Email,2025-09-07
+164,The website is very confusing to navigate.,Negative,Social Media,2025-09-14
+549,The app crashed during payment.,Negative,Social Media,2025-09-09
+1007,I can't find the setting I need.,Neutral,Chat Log,2025-09-17
+910,The app crashed during payment.,Negative,Email,2025-09-10
+638,Excellent quality and fast delivery!,Positive,Email,2025-09-08
+413,Customer service response time is too slow. Very disappointed.,Negative,Email,2025-09-23
+1062,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-12
+928,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-28
+631,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-01
+813,I can't find the setting I need.,Neutral,Social Media,2025-09-03
+1091,Customer service response time is too slow.,Negative,Chat Log,2025-09-11
+903,The app crashed during payment. Very disappointed.,Negative,Chat Log,2025-09-03
+840,Excellent quality and fast delivery!,Positive,Social Media,2025-09-30
+411,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-21
+616,The product arrived damaged and late.,Negative,Social Media,2025-09-16
+961,  <p>Excellent quality and fast delivery!</p>  ,Positive,Social Media,2025-09-01
+1023,"  <p>Love the new update, everything is much smoother now!</p>  ",Positive,Social Media,2025-09-03
+63,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-03
+193,  <p>Neutral feeling about the new features.</p>  ,Neutral,Chat Log,2025-09-13
+632,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-02
+389,The website is very confusing to navigate.,Negative,Email,2025-09-29
+772,I can't find the setting I need. I might try it again.,Neutral,Chat Log,2025-09-22
+924,"It's okay, nothing special.",Neutral,Email,2025-09-24
+1049,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-29
+773,The website is very confusing to navigate.,Negative,Chat Log,2025-09-23
+844,Excellent quality and fast delivery! Highly recommend!,Positive,Chat Log,2025-09-04
+1088,Customer service response time is too slow.,Negative,Chat Log,2025-09-08
+269,Neutral feeling about the new features.,Neutral,Social Media,2025-09-29
+408,I can't find the setting I need.,Neutral,Email,2025-09-18
+828,Customer service response time is too slow.,Negative,Email,2025-09-18
+1055,I can't find the setting I need.,Neutral,Chat Log,2025-09-05
+64,I can't find the setting I need.,Neutral,Social Media,2025-09-04
+822,The website is very confusing to navigate.,Negative,Chat Log,2025-09-12
+754,Excellent quality and fast delivery!,Positive,Email,2025-09-04
+859,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-19
+1,Neutral feeling about the new features.,Neutral,Email,2025-09-01
+491,The website is very confusing to navigate.,Negative,Email,2025-09-11
+316,Customer service response time is too slow.,Negative,Chat Log,2025-09-16
+361,The app crashed during payment.,Negative,Email,2025-09-01
+45,The product arrived damaged and late.,Negative,Email,2025-09-15
+369,"It's okay, nothing special.",Neutral,Email,2025-09-09
+203,Neutral feeling about the new features.,Neutral,Social Media,2025-09-23
+694,"It's okay, nothing special. I might try it again.",Neutral,Social Media,2025-09-04
+508,Simply the best experience I've had so far.,Positive,Social Media,2025-09-28
+490,Customer service response time is too slow.,Negative,Email,2025-09-10
+1096,The product arrived damaged and late.,Negative,Social Media,2025-09-16
+702,Excellent quality and fast delivery!,Positive,Social Media,2025-09-12
+658,"It's okay, nothing special. I might try it again.",Neutral,Chat Log,2025-09-28
+976,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-16
+1099,Simply the best experience I've had so far.,Positive,Social Media,2025-09-19
+841,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-01
+116,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-26
+103,Neutral feeling about the new features. I might try it again.,Neutral,Social Media,2025-09-13
+483,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-03
+671,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-11
+689,"  <p>It's okay, nothing special.</p>  ",Neutral,Social Media,2025-09-29
+556,Excellent quality and fast delivery!,Positive,Email,2025-09-16
+543,Customer service response time is too slow.,Negative,Social Media,2025-09-03
+399,The product arrived damaged and late. Very disappointed.,Negative,Email,2025-09-09
+565,I can't find the setting I need.,Neutral,Email,2025-09-25
+854,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-14
+346,Neutral feeling about the new features. I might try it again.,Neutral,Social Media,2025-09-16
+5,The product arrived damaged and late.,Negative,Social Media,2025-09-05
+366,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-06
+861,Neutral feeling about the new features.,Neutral,Social Media,2025-09-21
+668,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-08
+279,,Negative,Chat Log,2025-09-09
+233,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-23
+172,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-22
+1085,"It's okay, nothing special.",Neutral,Email,2025-09-05
+667,  <p>Customer service response time is too slow. Very disappointed.</p>  ,Negative,Social Media,2025-09-07
+330,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-30
+608,The product arrived damaged and late.,Negative,Social Media,2025-09-08
+1006,"It's okay, nothing special.",Neutral,Chat Log,2025-09-16
+414,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-24
+79,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-19
+495,  <p>The app crashed during payment.</p>  ,Negative,Email,2025-09-15
+737,"It's okay, nothing special. I might try it again.",Neutral,Email,2025-09-17
+496,"It's okay, nothing special. I might try it again.",Neutral,Social Media,2025-09-16
+521,Neutral feeling about the new features.,Neutral,Email,2025-09-11
+519,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-09
+721,The website is very confusing to navigate.,Negative,Social Media,2025-09-01
+222,Neutral feeling about the new features. I might try it again.,Neutral,Email,2025-09-12
+628,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-28
+893,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-23
+801,Neutral feeling about the new features.,Neutral,Social Media,2025-09-21
+661,Neutral feeling about the new features. I might try it again.,Neutral,Email,2025-09-01
+837,Neutral feeling about the new features.,Neutral,Email,2025-09-27
+929,Simply the best experience I've had so far.,Positive,Email,2025-09-29
+798,The website is very confusing to navigate.,Negative,Email,2025-09-18
+275,  <p>Neutral feeling about the new features.</p>  ,Neutral,Chat Log,2025-09-05
+499,  <p>Excellent quality and fast delivery!</p>  ,Positive,Social Media,2025-09-19
+675,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-15
+2,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-02
+563,I can't find the setting I need.,Neutral,Social Media,2025-09-23
+39,Simply the best experience I've had so far. Highly recommend!,Positive,Social Media,2025-09-09
+537,The website is very confusing to navigate.,Negative,Chat Log,2025-09-27
+36,Customer service response time is too slow.,Negative,Email,2025-09-06
+589,"It's okay, nothing special.",Neutral,Chat Log,2025-09-19
+135,Neutral feeling about the new features.,Neutral,Email,2025-09-15
+1087,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-07
+654,I can't find the setting I need.,Neutral,Social Media,2025-09-24
+951,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-21
+827,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-17
+639,The website is very confusing to navigate. Very disappointed.,Negative,Social Media,2025-09-09
+507,Neutral feeling about the new features.,Neutral,Social Media,2025-09-27
+129,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-09
+550,  <p>I can't find the setting I need.</p>  ,Neutral,Social Media,2025-09-10
+640,Customer service response time is too slow.,Negative,Email,2025-09-10
+774,The product arrived damaged and late.,Negative,Social Media,2025-09-24
+1066,Simply the best experience I've had so far.,Positive,Email,2025-09-16
+452,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-02
+740,Neutral feeling about the new features.,Neutral,Email,2025-09-20
+367,The product arrived damaged and late.,Negative,Chat Log,2025-09-07
+417,Customer service response time is too slow.,Negative,Social Media,2025-09-27
+506,Customer service response time is too slow. Very disappointed.,Negative,Chat Log,2025-09-26
+585,Customer service response time is too slow.,Negative,Chat Log,2025-09-15
+716,Excellent quality and fast delivery!,Positive,Email,2025-09-26
+597,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-27
+769,Simply the best experience I've had so far.,Positive,Social Media,2025-09-19
+289,I can't find the setting I need.,Neutral,Social Media,2025-09-19
+743,Excellent quality and fast delivery!,Positive,Social Media,2025-09-23
+703,  <p>Excellent quality and fast delivery!</p>  ,Positive,Chat Log,2025-09-13
+1033,  <p>Neutral feeling about the new features.</p>  ,Neutral,Email,2025-09-13
+954,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-24
+343,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-13
+16,The app crashed during payment.,Negative,Chat Log,2025-09-16
+357,The website is very confusing to navigate.,Negative,Email,2025-09-27
+934,"It's okay, nothing special. I might try it again.",Neutral,Chat Log,2025-09-04
+254,"It's okay, nothing special.",Neutral,Social Media,2025-09-14
+1040,Simply the best experience I've had so far.,Positive,Social Media,2025-09-20
+1058,  <p>The website is very confusing to navigate.</p>  ,Negative,Chat Log,2025-09-08
+850,"It's okay, nothing special.",Neutral,Social Media,2025-09-10
+538,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-28
+1083,  <p>The app crashed during payment.</p>  ,Negative,Email,2025-09-03
+1037,The app crashed during payment. Very disappointed.,Negative,Social Media,2025-09-17
+469,"It's okay, nothing special.",Neutral,Email,2025-09-19
+59,Simply the best experience I've had so far.,Positive,Social Media,2025-09-29
+733,The product arrived damaged and late.,Negative,Chat Log,2025-09-13
+941,  <p>Neutral feeling about the new features. I might try it again.</p>  ,Neutral,Email,2025-09-11
+241,  <p>I can't find the setting I need.</p>  ,Neutral,Email,2025-09-01
+566,Excellent quality and fast delivery! Highly recommend!,Positive,Chat Log,2025-09-26
+969,The website is very confusing to navigate. Very disappointed.,Negative,Email,2025-09-09
+817,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-07
+1050,  <p>The website is very confusing to navigate.</p>  ,Negative,Social Media,2025-09-30
+256,I can't find the setting I need.,Neutral,Social Media,2025-09-16
+1069,The website is very confusing to navigate.,Negative,Email,2025-09-19
+446,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-26
+445,The app crashed during payment.,Negative,Chat Log,2025-09-25
+609,Customer service response time is too slow.,Negative,Email,2025-09-09
+1031,The product arrived damaged and late.,Negative,Email,2025-09-11
+862,Excellent quality and fast delivery!,Positive,Social Media,2025-09-22
+914,I can't find the setting I need. I might try it again.,Neutral,Chat Log,2025-09-14
+492,Neutral feeling about the new features.,Neutral,Email,2025-09-12
+93,The product arrived damaged and late.,Negative,Social Media,2025-09-03
+676,I can't find the setting I need.,Neutral,Email,2025-09-16
+796,The product arrived damaged and late.,Negative,Email,2025-09-16
+494,The website is very confusing to navigate.,Negative,Email,2025-09-14
+637,Simply the best experience I've had so far. Highly recommend!,Positive,Social Media,2025-09-07
+591,The product arrived damaged and late. Very disappointed.,Negative,Social Media,2025-09-21
+921,The product arrived damaged and late.,Negative,Chat Log,2025-09-21
+920,The app crashed during payment. Very disappointed.,Negative,Chat Log,2025-09-20
+11,The product arrived damaged and late.,Negative,Social Media,2025-09-11
+3,Customer service response time is too slow.,Negative,Email,2025-09-03
+85,,Negative,Chat Log,2025-09-25
+268,The product arrived damaged and late.,Negative,Email,2025-09-28
+876,Excellent quality and fast delivery! Highly recommend!,Positive,Email,2025-09-06
+1073,Customer service response time is too slow.,Negative,Chat Log,2025-09-23
+688,I can't find the setting I need.,Neutral,Chat Log,2025-09-28
+1060,The website is very confusing to navigate.,Negative,Email,2025-09-10
+482,The product arrived damaged and late.,Negative,Chat Log,2025-09-02
+899,The app crashed during payment.,Negative,Social Media,2025-09-29
+288,The app crashed during payment.,Negative,Social Media,2025-09-18
+1022,The app crashed during payment.,Negative,Email,2025-09-02
+72,  <p>I can't find the setting I need.</p>  ,Neutral,Chat Log,2025-09-12
+95,The product arrived damaged and late.,Negative,Email,2025-09-05
+530,"  <p>Love the new update, everything is much smoother now!</p>  ",Positive,Social Media,2025-09-20
+434,Customer service response time is too slow.,Negative,Email,2025-09-14
+46,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-16
+253,I can't find the setting I need.,Neutral,Chat Log,2025-09-13
+200,,Neutral,Email,2025-09-20
+15,The website is very confusing to navigate.,Negative,Email,2025-09-15
+848,Neutral feeling about the new features. I might try it again.,Neutral,Email,2025-09-08
+782,The website is very confusing to navigate. Very disappointed.,Negative,Email,2025-09-02
+365,  <p>The product arrived damaged and late. Very disappointed.</p>  ,Negative,Email,2025-09-05
+1016,Neutral feeling about the new features.,Neutral,Email,2025-09-26
+100,Simply the best experience I've had so far.,Positive,Email,2025-09-10
+194,Neutral feeling about the new features. I might try it again.,Neutral,Email,2025-09-14
+147,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-27
+922,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-22
+130,The product arrived damaged and late. Very disappointed.,Negative,Social Media,2025-09-10
+925,  <p>The website is very confusing to navigate. Very disappointed.</p>  ,Negative,Email,2025-09-25
+780,The app crashed during payment. Very disappointed.,Negative,Chat Log,2025-09-30
+701,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-11
+500,The app crashed during payment.,Negative,Chat Log,2025-09-20
+298,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-28
+826,The product arrived damaged and late.,Negative,Email,2025-09-16
+987,Excellent quality and fast delivery!,Positive,Email,2025-09-27
+471,The website is very confusing to navigate.,Negative,Chat Log,2025-09-21
+784,Excellent quality and fast delivery! Highly recommend!,Positive,Social Media,2025-09-04
+547,Excellent quality and fast delivery!,Positive,Email,2025-09-07
+372,"It's okay, nothing special.",Neutral,Email,2025-09-12
+43,Simply the best experience I've had so far.,Positive,Social Media,2025-09-13
+28,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-28
+180,"It's okay, nothing special. I might try it again.",Neutral,Social Media,2025-09-30
+52,The product arrived damaged and late.,Negative,Email,2025-09-22
+505,"It's okay, nothing special.",Neutral,Social Media,2025-09-25
+932,I can't find the setting I need.,Neutral,Social Media,2025-09-02
+846,I can't find the setting I need.,Neutral,Social Media,2025-09-06
+331,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-01
+651,The product arrived damaged and late.,Negative,Chat Log,2025-09-21
+760,I can't find the setting I need.,Neutral,Email,2025-09-10
+1019,Neutral feeling about the new features.,Neutral,Email,2025-09-29
+880,The app crashed during payment.,Negative,Chat Log,2025-09-10
+572,"It's okay, nothing special.",Neutral,Email,2025-09-02
+1,Neutral feeling about the new features.,Neutral,Email,2025-09-01
+13,The app crashed during payment. Very disappointed.,Negative,Social Media,2025-09-13
+1021,The website is very confusing to navigate.,Negative,Email,2025-09-01
+1097,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-17
+87,Customer service response time is too slow.,Negative,Email,2025-09-27
+131,Neutral feeling about the new features.,Neutral,Social Media,2025-09-11
+435,The product arrived damaged and late. Very disappointed.,Negative,Email,2025-09-15
+51,Customer service response time is too slow.,Negative,Chat Log,2025-09-21
+267,Simply the best experience I've had so far.,Positive,Social Media,2025-09-27
+110,  <p>The product arrived damaged and late.</p>  ,Negative,Social Media,2025-09-20
+926,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-26
+244,The product arrived damaged and late. Very disappointed.,Negative,Social Media,2025-09-04
+789,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-09
+235,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-25
+741,Excellent quality and fast delivery!,Positive,Social Media,2025-09-21
+473,The product arrived damaged and late.,Negative,Social Media,2025-09-23
+212,The product arrived damaged and late.,Negative,Chat Log,2025-09-02
+812,  <p>The app crashed during payment.</p>  ,Negative,Email,2025-09-02
+1094,I can't find the setting I need.,Neutral,Chat Log,2025-09-14
+370,  <p>Simply the best experience I've had so far. Highly recommend!</p>  ,Positive,Chat Log,2025-09-10
+540,The app crashed during payment.,Negative,Chat Log,2025-09-30
+727,The product arrived damaged and late.,Negative,Chat Log,2025-09-07
+1004,The app crashed during payment.,Negative,Email,2025-09-14
+982,Excellent quality and fast delivery!,Positive,Email,2025-09-22
+137,Customer service response time is too slow.,Negative,Chat Log,2025-09-17
+484,The app crashed during payment. Very disappointed.,Negative,Chat Log,2025-09-04
+317,I can't find the setting I need.,Neutral,Email,2025-09-17
+821,I can't find the setting I need.,Neutral,Chat Log,2025-09-11
+313,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-13
+431,I can't find the setting I need.,Neutral,Social Media,2025-09-11
+455,The product arrived damaged and late.,Negative,Chat Log,2025-09-05
+853,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-13
+34,The website is very confusing to navigate.,Negative,Email,2025-09-04
+1005,I can't find the setting I need. I might try it again.,Neutral,Email,2025-09-15
+562,Simply the best experience I've had so far. Highly recommend!,Positive,Email,2025-09-22
+375,Customer service response time is too slow.,Negative,Chat Log,2025-09-15
+687,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-27
+364,I can't find the setting I need. I might try it again.,Neutral,Chat Log,2025-09-04
+554,  <p>Neutral feeling about the new features.</p>  ,Neutral,Social Media,2025-09-14
+623,"It's okay, nothing special. I might try it again.",Neutral,Chat Log,2025-09-23
+1056,Simply the best experience I've had so far.,Positive,Social Media,2025-09-06
+418,The website is very confusing to navigate. Very disappointed.,Negative,Chat Log,2025-09-28
+945,Neutral feeling about the new features.,Neutral,Email,2025-09-15
+557,The website is very confusing to navigate.,Negative,Email,2025-09-17
+138,  <p>Simply the best experience I've had so far.</p>  ,Positive,Social Media,2025-09-18
+374,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-14
+799,The website is very confusing to navigate. Very disappointed.,Negative,Social Media,2025-09-19
+207,Customer service response time is too slow.,Negative,Chat Log,2025-09-27
+690,  <p>The website is very confusing to navigate. Very disappointed.</p>  ,Negative,Social Media,2025-09-30
+919,Customer service response time is too slow.,Negative,Chat Log,2025-09-19
+525,"  <p>It's okay, nothing special.</p>  ",Neutral,Chat Log,2025-09-15
+310,The product arrived damaged and late. Very disappointed.,Negative,Chat Log,2025-09-10
+620,The website is very confusing to navigate.,Negative,Social Media,2025-09-20
+305,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-05
+900,Excellent quality and fast delivery!,Positive,Social Media,2025-09-30
+838,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-28
+978,Neutral feeling about the new features.,Neutral,Email,2025-09-18
+717,The website is very confusing to navigate. Very disappointed.,Negative,Email,2025-09-27
+218,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-08
+57,Neutral feeling about the new features.,Neutral,Social Media,2025-09-27
+847,Excellent quality and fast delivery!,Positive,Social Media,2025-09-07
+977,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-17
+158,"  <p>It's okay, nothing special.</p>  ",Neutral,Email,2025-09-08
+956,  <p>Neutral feeling about the new features.</p>  ,Neutral,Email,2025-09-26
+388,"It's okay, nothing special.",Neutral,Email,2025-09-28
+895,Neutral feeling about the new features.,Neutral,Social Media,2025-09-25
+386,  <p>Excellent quality and fast delivery!</p>  ,Positive,Social Media,2025-09-26
+2,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-02
+682,I can't find the setting I need.,Neutral,Email,2025-09-22
+69,The website is very confusing to navigate. Very disappointed.,Negative,Social Media,2025-09-09
+663,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-03
+477,"It's okay, nothing special.",Neutral,Social Media,2025-09-27
+583,The product arrived damaged and late.,Negative,Email,2025-09-13
+705,The website is very confusing to navigate.,Negative,Social Media,2025-09-15
+299,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-29
+163,  <p>The website is very confusing to navigate.</p>  ,Negative,Chat Log,2025-09-13
+567,"  <p>It's okay, nothing special. I might try it again.</p>  ",Neutral,Chat Log,2025-09-27
+756,"It's okay, nothing special.",Neutral,Email,2025-09-06
+832,Simply the best experience I've had so far.,Positive,Email,2025-09-22
+7,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-07
+168,,Negative,Email,2025-09-18
+385,The product arrived damaged and late.,Negative,Email,2025-09-25
+191,  <p>Excellent quality and fast delivery! Highly recommend!</p>  ,Positive,Email,2025-09-11
+1063,Neutral feeling about the new features. I might try it again.,Neutral,Email,2025-09-13
+304,Excellent quality and fast delivery!,Positive,Social Media,2025-09-04
+624,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-24
+600,The app crashed during payment.,Negative,Chat Log,2025-09-30
+704,The app crashed during payment. Very disappointed.,Negative,Email,2025-09-14
+12,"It's okay, nothing special. I might try it again.",Neutral,Chat Log,2025-09-12
+1012,"It's okay, nothing special. I might try it again.",Neutral,Email,2025-09-22
+757,The product arrived damaged and late.,Negative,Email,2025-09-07
+517,The app crashed during payment.,Negative,Social Media,2025-09-07
+646,  <p>The app crashed during payment.</p>  ,Negative,Chat Log,2025-09-16
+204,The app crashed during payment.,Negative,Chat Log,2025-09-24
+174,Neutral feeling about the new features.,Neutral,Social Media,2025-09-24
+228,The website is very confusing to navigate.,Negative,Email,2025-09-18
+1041,Customer service response time is too slow.,Negative,Social Media,2025-09-21
+913,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-13
+1089,The product arrived damaged and late.,Negative,Email,2025-09-09
+1084,The product arrived damaged and late. Very disappointed.,Negative,Social Media,2025-09-04
+785,The app crashed during payment.,Negative,Email,2025-09-05
+871,Neutral feeling about the new features.,Neutral,Email,2025-09-01
+963,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-03
+403,Customer service response time is too slow.,Negative,Email,2025-09-13
+930,Simply the best experience I've had so far.,Positive,Social Media,2025-09-30
+226,  <p>The product arrived damaged and late.</p>  ,Negative,Social Media,2025-09-16
+744,"It's okay, nothing special.",Neutral,Chat Log,2025-09-24
+718,Excellent quality and fast delivery!,Positive,Social Media,2025-09-28
+883,The app crashed during payment.,Negative,Social Media,2025-09-13
+999,The website is very confusing to navigate.,Negative,Email,2025-09-09
+626,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-26
+1013,The product arrived damaged and late.,Negative,Social Media,2025-09-23
+845,The website is very confusing to navigate.,Negative,Social Media,2025-09-05
+202,  <p>Simply the best experience I've had so far.</p>  ,Positive,Chat Log,2025-09-22
+1009,Neutral feeling about the new features. I might try it again.,Neutral,Email,2025-09-19
+47,  <p>Simply the best experience I've had so far.</p>  ,Positive,Social Media,2025-09-17
+1067,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-17
+460,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-10
+621,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-21
+338,Customer service response time is too slow.,Negative,Email,2025-09-08
+387,I can't find the setting I need.,Neutral,Social Media,2025-09-27
+312,Customer service response time is too slow.,Negative,Social Media,2025-09-12
+831,Excellent quality and fast delivery!,Positive,Email,2025-09-21
+10,Excellent quality and fast delivery!,Positive,Social Media,2025-09-10
+449,The app crashed during payment.,Negative,Social Media,2025-09-29
+463,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-13
+493,Excellent quality and fast delivery!,Positive,Email,2025-09-13
+997,"It's okay, nothing special.",Neutral,Social Media,2025-09-07
+29,  <p>I can't find the setting I need.</p>  ,Neutral,Chat Log,2025-09-29
+4,  <p>Neutral feeling about the new features. I might try it again.</p>  ,Neutral,Social Media,2025-09-04
+777,Simply the best experience I've had so far.,Positive,Social Media,2025-09-27
+272,The product arrived damaged and late.,Negative,Email,2025-09-02
+66,I can't find the setting I need.,Neutral,Email,2025-09-06
+662,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-02
+1026,Customer service response time is too slow. Very disappointed.,Negative,Social Media,2025-09-06
+380,  <p>Customer service response time is too slow.</p>  ,Negative,Email,2025-09-20
+1053,The product arrived damaged and late.,Negative,Chat Log,2025-09-03
+736,I can't find the setting I need.,Neutral,Social Media,2025-09-16
+647,Customer service response time is too slow.,Negative,Email,2025-09-17
+513,The product arrived damaged and late.,Negative,Email,2025-09-03
+1076,Simply the best experience I've had so far. Highly recommend!,Positive,Email,2025-09-26
+612,Customer service response time is too slow.,Negative,Social Media,2025-09-12
+376,Excellent quality and fast delivery!,Positive,Social Media,2025-09-16
+806,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-26
+1082,The product arrived damaged and late.,Negative,Social Media,2025-09-02
+881,Simply the best experience I've had so far.,Positive,Social Media,2025-09-11
+995,Customer service response time is too slow.,Negative,Social Media,2025-09-05
+1054,I can't find the setting I need.,Neutral,Social Media,2025-09-04
+794,The product arrived damaged and late.,Negative,Social Media,2025-09-14
+425,The app crashed during payment.,Negative,Social Media,2025-09-05
+885,The website is very confusing to navigate. Very disappointed.,Negative,Chat Log,2025-09-15
+580,The website is very confusing to navigate.,Negative,Email,2025-09-10
+7,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-07
+1072,Customer service response time is too slow.,Negative,Email,2025-09-22
+962,The website is very confusing to navigate.,Negative,Social Media,2025-09-02
+327,"It's okay, nothing special. I might try it again.",Neutral,Email,2025-09-27
+660,The app crashed during payment.,Negative,Social Media,2025-09-30
+450,"It's okay, nothing special.",Neutral,Email,2025-09-30
+811,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-01
+696,"It's okay, nothing special.",Neutral,Social Media,2025-09-06
+599,Excellent quality and fast delivery!,Positive,Social Media,2025-09-29
+747,  <p>Customer service response time is too slow.</p>  ,Negative,Email,2025-09-27
+568,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-28
+475,"  <p>It's okay, nothing special.</p>  ",Neutral,Email,2025-09-25
+916,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-16
+808,"It's okay, nothing special.",Neutral,Chat Log,2025-09-28
+804,"It's okay, nothing special.",Neutral,Social Media,2025-09-24
+323,Simply the best experience I've had so far.,Positive,Social Media,2025-09-23
+723,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-03
+546,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-06
+67,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-07
+117,Simply the best experience I've had so far. Highly recommend!,Positive,Chat Log,2025-09-27
+765,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-15
+776,"It's okay, nothing special.",Neutral,Chat Log,2025-09-26
+512,Excellent quality and fast delivery! Highly recommend!,Positive,Email,2025-09-02
+139,The website is very confusing to navigate. Very disappointed.,Negative,Chat Log,2025-09-19
+698,  <p>The app crashed during payment.</p>  ,Negative,Chat Log,2025-09-08
+985,The product arrived damaged and late.,Negative,Chat Log,2025-09-25
+686,The app crashed during payment.,Negative,Social Media,2025-09-26
+264,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-24
+561,Simply the best experience I've had so far.,Positive,Social Media,2025-09-21
+62,I can't find the setting I need.,Neutral,Chat Log,2025-09-02
+641,Customer service response time is too slow.,Negative,Email,2025-09-11
+136,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-16
+1059,The app crashed during payment.,Negative,Chat Log,2025-09-09
+112,Neutral feeling about the new features.,Neutral,Email,2025-09-22
+157,Excellent quality and fast delivery!,Positive,Social Media,2025-09-07
+863,The website is very confusing to navigate.,Negative,Chat Log,2025-09-23
+211,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-01
+489,  <p>Simply the best experience I've had so far.</p>  ,Positive,Chat Log,2025-09-09
+401,  <p>Customer service response time is too slow.</p>  ,Negative,Email,2025-09-11
+764,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-14
+383,The app crashed during payment.,Negative,Social Media,2025-09-23
+415,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Social Media,2025-09-25
+478,The product arrived damaged and late.,Negative,Social Media,2025-09-28
+593,Simply the best experience I've had so far.,Positive,Social Media,2025-09-23
+146,The website is very confusing to navigate.,Negative,Email,2025-09-26
+866,  <p>Simply the best experience I've had so far.</p>  ,Positive,Chat Log,2025-09-26
+882,The website is very confusing to navigate.,Negative,Email,2025-09-12
+833,,Neutral,Email,2025-09-23
+823,The website is very confusing to navigate. Very disappointed.,Negative,Social Media,2025-09-13
+940,The website is very confusing to navigate.,Negative,Email,2025-09-10
+184,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-04
+1057,Neutral feeling about the new features.,Neutral,Email,2025-09-07
+839,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-29
+759,Customer service response time is too slow.,Negative,Email,2025-09-09
+400,I can't find the setting I need. I might try it again.,Neutral,Chat Log,2025-09-10
+803,The product arrived damaged and late.,Negative,Email,2025-09-23
+819,  <p>The website is very confusing to navigate.</p>  ,Negative,Chat Log,2025-09-09
+865,Customer service response time is too slow.,Negative,Email,2025-09-25
+58,The product arrived damaged and late.,Negative,Social Media,2025-09-28
+31,Customer service response time is too slow.,Negative,Chat Log,2025-09-01
+38,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-08
+281,I can't find the setting I need.,Neutral,Email,2025-09-11
+60,"It's okay, nothing special. I might try it again.",Neutral,Email,2025-09-30
+456,"It's okay, nothing special.",Neutral,Chat Log,2025-09-06
+532,"It's okay, nothing special.",Neutral,Social Media,2025-09-22
+151,"It's okay, nothing special.",Neutral,Email,2025-09-01
+24,The app crashed during payment.,Negative,Email,2025-09-24
+101,  <p>I can't find the setting I need. I might try it again.</p>  ,Neutral,Social Media,2025-09-11
+622,I can't find the setting I need.,Neutral,Chat Log,2025-09-22
+141,The website is very confusing to navigate.,Negative,Email,2025-09-21
+142,The app crashed during payment.,Negative,Chat Log,2025-09-22
+1071,The website is very confusing to navigate.,Negative,Email,2025-09-21
+1064,"It's okay, nothing special.",Neutral,Social Media,2025-09-14
+409,The product arrived damaged and late.,Negative,Social Media,2025-09-19
+424,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-04
+76,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-16
+644,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-14
+441,Customer service response time is too slow.,Negative,Chat Log,2025-09-21
+510,Simply the best experience I've had so far.,Positive,Email,2025-09-30
+975,Neutral feeling about the new features.,Neutral,Email,2025-09-15
+55,  <p>Neutral feeling about the new features.</p>  ,Neutral,Email,2025-09-25
+755,Excellent quality and fast delivery!,Positive,Social Media,2025-09-05
+224,Simply the best experience I've had so far.,Positive,Social Media,2025-09-14
+239,Simply the best experience I've had so far.,Positive,Social Media,2025-09-29
+159,Excellent quality and fast delivery! Highly recommend!,Positive,Chat Log,2025-09-09
+762,The website is very confusing to navigate.,Negative,Email,2025-09-12
+761,Customer service response time is too slow.,Negative,Email,2025-09-11
+711,I can't find the setting I need.,Neutral,Social Media,2025-09-21
+665,Customer service response time is too slow.,Negative,Email,2025-09-05
+197,Simply the best experience I've had so far.,Positive,Social Media,2025-09-17
+766,The product arrived damaged and late.,Negative,Email,2025-09-16
+143,Neutral feeling about the new features.,Neutral,Email,2025-09-23
+18,Excellent quality and fast delivery!,Positive,Email,2025-09-18
+891,"  <p>Love the new update, everything is much smoother now!</p>  ",Positive,Email,2025-09-21
+673,I can't find the setting I need. I might try it again.,Neutral,Chat Log,2025-09-13
+74,Simply the best experience I've had so far.,Positive,Social Media,2025-09-14
+444,The app crashed during payment.,Negative,Social Media,2025-09-24
+503,The website is very confusing to navigate.,Negative,Chat Log,2025-09-23
+82,"It's okay, nothing special. I might try it again.",Neutral,Social Media,2025-09-22
+923,The website is very confusing to navigate. Very disappointed.,Negative,Chat Log,2025-09-23
+90,Customer service response time is too slow.,Negative,Chat Log,2025-09-30
+498,Neutral feeling about the new features. I might try it again.,Neutral,Email,2025-09-18
+273,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Chat Log,2025-09-03
+395,Excellent quality and fast delivery!,Positive,Social Media,2025-09-05
+635,The product arrived damaged and late.,Negative,Email,2025-09-05
+699,Simply the best experience I've had so far.,Positive,Social Media,2025-09-09
+555,,Positive,Chat Log,2025-09-15
+89,Neutral feeling about the new features.,Neutral,Social Media,2025-09-29
+931,"It's okay, nothing special.",Neutral,Email,2025-09-01
+277,I can't find the setting I need.,Neutral,Social Media,2025-09-07
+797,The website is very confusing to navigate.,Negative,Email,2025-09-17
+476,  <p>Neutral feeling about the new features.</p>  ,Neutral,Chat Log,2025-09-26
+300,Customer service response time is too slow.,Negative,Email,2025-09-30
+377,  <p>Excellent quality and fast delivery!</p>  ,Positive,Chat Log,2025-09-17
+68,  <p>The app crashed during payment.</p>  ,Negative,Email,2025-09-08
+430,The app crashed during payment.,Negative,Chat Log,2025-09-10
+1018,Neutral feeling about the new features. I might try it again.,Neutral,Social Media,2025-09-28
+382,"It's okay, nothing special.",Neutral,Chat Log,2025-09-22
+393,The product arrived damaged and late.,Negative,Email,2025-09-03
+54,"  <p>Love the new update, everything is much smoother now!</p>  ",Positive,Social Media,2025-09-24
+73,The website is very confusing to navigate.,Negative,Chat Log,2025-09-13
+602,Simply the best experience I've had so far.,Positive,Social Media,2025-09-02
+707,The website is very confusing to navigate.,Negative,Social Media,2025-09-17
+551,"It's okay, nothing special.",Neutral,Email,2025-09-11
+873,Neutral feeling about the new features. I might try it again.,Neutral,Chat Log,2025-09-03
+286,Customer service response time is too slow. Very disappointed.,Negative,Chat Log,2025-09-16
+610,I can't find the setting I need.,Neutral,Email,2025-09-10
+35,I can't find the setting I need.,Neutral,Chat Log,2025-09-05
+454,Customer service response time is too slow.,Negative,Chat Log,2025-09-04
+935,The product arrived damaged and late.,Negative,Email,2025-09-05
+996,The product arrived damaged and late.,Negative,Email,2025-09-06
+629,"It's okay, nothing special.",Neutral,Social Media,2025-09-29
+531,The app crashed during payment.,Negative,Social Media,2025-09-21
+416,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-26
+906,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-06
+604,The app crashed during payment.,Negative,Social Media,2025-09-04
+199,"  <p>It's okay, nothing special.</p>  ",Neutral,Chat Log,2025-09-19
+459,"It's okay, nothing special. I might try it again.",Neutral,Email,2025-09-09
+49,"It's okay, nothing special.",Neutral,Email,2025-09-19
+227,  <p>The app crashed during payment.</p>  ,Negative,Email,2025-09-17
+396,  <p>The app crashed during payment.</p>  ,Negative,Email,2025-09-06
+814,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-04
+544,The product arrived damaged and late.,Negative,Email,2025-09-04
+627,Customer service response time is too slow.,Negative,Chat Log,2025-09-27
+274,I can't find the setting I need.,Neutral,Chat Log,2025-09-04
+633,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-03
+575,Neutral feeling about the new features.,Neutral,Email,2025-09-05
+229,The product arrived damaged and late.,Negative,Email,2025-09-19
+642,"It's okay, nothing special.",Neutral,Chat Log,2025-09-12
+4,  <p>Neutral feeling about the new features. I might try it again.</p>  ,Neutral,Social Media,2025-09-04
+41,Customer service response time is too slow.,Negative,Social Media,2025-09-11
+515,Simply the best experience I've had so far. Highly recommend!,Positive,Social Media,2025-09-05
+337,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-07
+182,"It's okay, nothing special.",Neutral,Social Media,2025-09-02
+252,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-12
+378,Simply the best experience I've had so far.,Positive,Email,2025-09-18
+442,Excellent quality and fast delivery!,Positive,Email,2025-09-22
+1036,The app crashed during payment.,Negative,Email,2025-09-16
+115,The website is very confusing to navigate.,Negative,Email,2025-09-25
+99,The product arrived damaged and late.,Negative,Email,2025-09-09
+189,"It's okay, nothing special.",Neutral,Email,2025-09-09
+8,  <p>The website is very confusing to navigate.</p>  ,Negative,Chat Log,2025-09-08
+183,Excellent quality and fast delivery! Highly recommend!,Positive,Email,2025-09-03
+867,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-27
+574,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-04
+502,The product arrived damaged and late.,Negative,Email,2025-09-22
+149,I can't find the setting I need.,Neutral,Chat Log,2025-09-29
+263,I can't find the setting I need.,Neutral,Chat Log,2025-09-23
+92,Simply the best experience I've had so far.,Positive,Email,2025-09-02
+775,The product arrived damaged and late.,Negative,Chat Log,2025-09-25
+820,Excellent quality and fast delivery!,Positive,Email,2025-09-10
+410,The product arrived damaged and late.,Negative,Email,2025-09-20
+729,Excellent quality and fast delivery!,Positive,Social Media,2025-09-09
+295,Simply the best experience I've had so far. Highly recommend!,Positive,Chat Log,2025-09-25
+911,I can't find the setting I need.,Neutral,Email,2025-09-11
+243,  <p>The website is very confusing to navigate. Very disappointed.</p>  ,Negative,Email,2025-09-03
+749,The app crashed during payment.,Negative,Chat Log,2025-09-29
+857,"It's okay, nothing special.",Neutral,Email,2025-09-17
+296,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-26
+1008,The website is very confusing to navigate.,Negative,Chat Log,2025-09-18
+25,The app crashed during payment.,Negative,Chat Log,2025-09-25
+830,  <p>Neutral feeling about the new features.</p>  ,Neutral,Email,2025-09-20
+892,I can't find the setting I need.,Neutral,Email,2025-09-22
+308,  <p>Simply the best experience I've had so far.</p>  ,Positive,Chat Log,2025-09-08
+824,The app crashed during payment.,Negative,Chat Log,2025-09-14
+672,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-12
+634,Customer service response time is too slow.,Negative,Chat Log,2025-09-04
+220,The product arrived damaged and late.,Negative,Chat Log,2025-09-10
+206,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-26
+123,Neutral feeling about the new features.,Neutral,Social Media,2025-09-03
+259,I can't find the setting I need.,Neutral,Email,2025-09-19
+283,Excellent quality and fast delivery! Highly recommend!,Positive,Email,2025-09-13
+615,The product arrived damaged and late.,Negative,Social Media,2025-09-15
+42,The app crashed during payment.,Negative,Email,2025-09-12
+678,The app crashed during payment.,Negative,Social Media,2025-09-18
+984,Neutral feeling about the new features. I might try it again.,Neutral,Social Media,2025-09-24
+249,The product arrived damaged and late.,Negative,Email,2025-09-09
+907,Customer service response time is too slow.,Negative,Chat Log,2025-09-07
+133,Excellent quality and fast delivery!,Positive,Email,2025-09-13
+992,  <p>The product arrived damaged and late.</p>  ,Negative,Email,2025-09-02
+781,The website is very confusing to navigate.,Negative,Chat Log,2025-09-01
+1061,Neutral feeling about the new features.,Neutral,Social Media,2025-09-11
+970,The website is very confusing to navigate.,Negative,Email,2025-09-10
+898,"It's okay, nothing special.",Neutral,Email,2025-09-28
+423,I can't find the setting I need.,Neutral,Chat Log,2025-09-03
+109,The website is very confusing to navigate. Very disappointed.,Negative,Email,2025-09-19
+810,I can't find the setting I need.,Neutral,Email,2025-09-30
+669,  <p>Customer service response time is too slow. Very disappointed.</p>  ,Negative,Email,2025-09-09
+943,Excellent quality and fast delivery!,Positive,Email,2025-09-13
+124,Customer service response time is too slow.,Negative,Email,2025-09-04
+886,The website is very confusing to navigate.,Negative,Social Media,2025-09-16
+993,Customer service response time is too slow.,Negative,Email,2025-09-03
+5,The product arrived damaged and late.,Negative,Social Media,2025-09-05
+691,  <p>The app crashed during payment.</p>  ,Negative,Chat Log,2025-09-01
+362,The app crashed during payment.,Negative,Social Media,2025-09-02
+986,The product arrived damaged and late.,Negative,Email,2025-09-26
+1038,The website is very confusing to navigate.,Negative,Email,2025-09-18
+511,The product arrived damaged and late.,Negative,Chat Log,2025-09-01
+144,"It's okay, nothing special.",Neutral,Chat Log,2025-09-24
+1039,The app crashed during payment.,Negative,Chat Log,2025-09-19
+215,The app crashed during payment.,Negative,Email,2025-09-05
+1046,Excellent quality and fast delivery!,Positive,Social Media,2025-09-26
+1027,The app crashed during payment.,Negative,Social Media,2025-09-07
+816,"It's okay, nothing special. I might try it again.",Neutral,Email,2025-09-06
+1010,The app crashed during payment.,Negative,Email,2025-09-20
+564,Excellent quality and fast delivery!,Positive,Email,2025-09-24
+578,I can't find the setting I need.,Neutral,Chat Log,2025-09-08
+322,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-22
+509,Neutral feeling about the new features.,Neutral,Social Media,2025-09-29
+852,The app crashed during payment.,Negative,Chat Log,2025-09-12
+768,The website is very confusing to navigate. Very disappointed.,Negative,Chat Log,2025-09-18
+748,Customer service response time is too slow.,Negative,Email,2025-09-28
+901,Excellent quality and fast delivery! Highly recommend!,Positive,Chat Log,2025-09-01
+324,Customer service response time is too slow. Very disappointed.,Negative,Email,2025-09-24
+344,The product arrived damaged and late.,Negative,Social Media,2025-09-14
+536,I can't find the setting I need.,Neutral,Email,2025-09-26
+988,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-28
+270,The product arrived damaged and late.,Negative,Social Media,2025-09-30
+613,Neutral feeling about the new features.,Neutral,Email,2025-09-13
+125,  <p>The product arrived damaged and late.</p>  ,Negative,Social Media,2025-09-05
+778,Neutral feeling about the new features.,Neutral,Email,2025-09-28
+181,  <p>Excellent quality and fast delivery!</p>  ,Positive,Chat Log,2025-09-01
+458,Simply the best experience I've had so far.,Positive,Email,2025-09-08
+1090,Neutral feeling about the new features. I might try it again.,Neutral,Email,2025-09-10
+326,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-26
+465,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-15
+173,The product arrived damaged and late.,Negative,Chat Log,2025-09-23
+1051,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-01
+293,  <p>The website is very confusing to navigate.</p>  ,Negative,Email,2025-09-23
+186,Neutral feeling about the new features.,Neutral,Social Media,2025-09-06
+783,The website is very confusing to navigate.,Negative,Email,2025-09-03
+872,Excellent quality and fast delivery! Highly recommend!,Positive,Email,2025-09-02
+522,I can't find the setting I need. I might try it again.,Neutral,Chat Log,2025-09-12
+875,Excellent quality and fast delivery!,Positive,Email,2025-09-05
+878,"It's okay, nothing special.",Neutral,Email,2025-09-08
+618,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-18
+942,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-12
+301,Simply the best experience I've had so far.,Positive,Social Media,2025-09-01
+990,The website is very confusing to navigate.,Negative,Social Media,2025-09-30
+91,  <p>The product arrived damaged and late.</p>  ,Negative,Social Media,2025-09-01
+438,"It's okay, nothing special.",Neutral,Email,2025-09-18
+1052,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-02
+432,The app crashed during payment.,Negative,Social Media,2025-09-12
+965,The app crashed during payment. Very disappointed.,Negative,Chat Log,2025-09-05
+260,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-20
+126,Neutral feeling about the new features.,Neutral,Email,2025-09-06
+974,The app crashed during payment.,Negative,Chat Log,2025-09-14
+291,Customer service response time is too slow.,Negative,Social Media,2025-09-21
+487,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-07
+443,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-23
+14,"  <p>Love the new update, everything is much smoother now!</p>  ",Positive,Chat Log,2025-09-14
+33,  <p>Customer service response time is too slow.</p>  ,Negative,Chat Log,2025-09-03
+534,Neutral feeling about the new features. I might try it again.,Neutral,Social Media,2025-09-24
+889,"It's okay, nothing special.",Neutral,Email,2025-09-19
+695,Neutral feeling about the new features.,Neutral,Email,2025-09-05
+404,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-14
+287,"It's okay, nothing special. I might try it again.",Neutral,Chat Log,2025-09-17
+1100,The app crashed during payment.,Negative,Chat Log,2025-09-20
+88,Simply the best experience I've had so far.,Positive,Email,2025-09-28
+37,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-07
+153,The product arrived damaged and late. Very disappointed.,Negative,Social Media,2025-09-03
+592,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-22
+577,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-07
+664,The website is very confusing to navigate.,Negative,Email,2025-09-04
+619,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-19
+75,I can't find the setting I need.,Neutral,Email,2025-09-15
+428,I can't find the setting I need.,Neutral,Social Media,2025-09-08
+481,I can't find the setting I need. I might try it again.,Neutral,Social Media,2025-09-01
+232,I can't find the setting I need. I might try it again.,Neutral,Email,2025-09-22
+97,I can't find the setting I need.,Neutral,Chat Log,2025-09-07
+185,"It's okay, nothing special.",Neutral,Social Media,2025-09-05
+248,Simply the best experience I've had so far. Highly recommend!,Positive,Social Media,2025-09-08
+989,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-29
+44,The app crashed during payment. Very disappointed.,Negative,Email,2025-09-14
+594,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-24
+560,"It's okay, nothing special.",Neutral,Social Media,2025-09-20
+790,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-10
+884,The product arrived damaged and late.,Negative,Social Media,2025-09-14
+617,The product arrived damaged and late. Very disappointed.,Negative,Email,2025-09-17
+504,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-24
+391,The app crashed during payment.,Negative,Social Media,2025-09-01
+485,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-05
+236,,Neutral,Email,2025-09-26
+1030,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-10
+56,Neutral feeling about the new features.,Neutral,Social Media,2025-09-26
+318,  <p>The app crashed during payment.</p>  ,Negative,Chat Log,2025-09-18
+787,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-07
+860,The product arrived damaged and late.,Negative,Social Media,2025-09-20
+426,The product arrived damaged and late. Very disappointed.,Negative,Email,2025-09-06
+21,I can't find the setting I need.,Neutral,Social Media,2025-09-21
+265,"It's okay, nothing special.",Neutral,Email,2025-09-25
+601,The app crashed during payment.,Negative,Email,2025-09-01
+179,"It's okay, nothing special.",Neutral,Social Media,2025-09-29
+238,,Negative,Social Media,2025-09-28
+697,  <p>I can't find the setting I need.</p>  ,Neutral,Social Media,2025-09-07
+939,Customer service response time is too slow. Very disappointed.,Negative,Chat Log,2025-09-09
+363,I can't find the setting I need.,Neutral,Email,2025-09-03
+114,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-24
+937,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-07
+358,  <p>The app crashed during payment. Very disappointed.</p>  ,Negative,Chat Log,2025-09-28
+266,"It's okay, nothing special.",Neutral,Email,2025-09-26
+552,I can't find the setting I need.,Neutral,Email,2025-09-12
+160,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-10
+359,Simply the best experience I've had so far.,Positive,Social Media,2025-09-29
+216,  <p>The product arrived damaged and late.</p>  ,Negative,Email,2025-09-06
+309,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-09
+250,I can't find the setting I need.,Neutral,Email,2025-09-10
+917,The product arrived damaged and late.,Negative,Chat Log,2025-09-17
+162,Simply the best experience I've had so far. Highly recommend!,Positive,Email,2025-09-12
+121,The product arrived damaged and late.,Negative,Email,2025-09-01
+1047,"It's okay, nothing special.",Neutral,Chat Log,2025-09-27
+6,Neutral feeling about the new features.,Neutral,Email,2025-09-06
+603,The website is very confusing to navigate.,Negative,Email,2025-09-03
+1001,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-11
+307,The app crashed during payment. Very disappointed.,Negative,Email,2025-09-07
+994,Neutral feeling about the new features. I might try it again.,Neutral,Social Media,2025-09-04
+30,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-30
+818,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-08
+1014,"It's okay, nothing special.",Neutral,Chat Log,2025-09-24
+805,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Email,2025-09-25
+595,The app crashed during payment. Very disappointed.,Negative,Social Media,2025-09-25
+902,Customer service response time is too slow.,Negative,Email,2025-09-02
+516,Customer service response time is too slow.,Negative,Chat Log,2025-09-06
+466,The app crashed during payment.,Negative,Chat Log,2025-09-16
+720,  <p>Neutral feeling about the new features. I might try it again.</p>  ,Neutral,Chat Log,2025-09-30
+700,The app crashed during payment. Very disappointed.,Negative,Email,2025-09-10
+1000,"  <p>It's okay, nothing special.</p>  ",Neutral,Chat Log,2025-09-10
+842,Neutral feeling about the new features. I might try it again.,Neutral,Social Media,2025-09-02
+210,The product arrived damaged and late.,Negative,Social Media,2025-09-30
+292,The product arrived damaged and late.,Negative,Social Media,2025-09-22
+738,Neutral feeling about the new features.,Neutral,Email,2025-09-18
+905,Customer service response time is too slow.,Negative,Chat Log,2025-09-05
+809,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-29
+190,,Negative,Email,2025-09-10
+213,The app crashed during payment.,Negative,Social Media,2025-09-03
+384,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-24
+680,The product arrived damaged and late. Very disappointed.,Negative,Chat Log,2025-09-20
+868,Simply the best experience I've had so far.,Positive,Email,2025-09-28
+419,Neutral feeling about the new features.,Neutral,Social Media,2025-09-29
+851,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-11
+948,Customer service response time is too slow.,Negative,Chat Log,2025-09-18
+713,The app crashed during payment.,Negative,Chat Log,2025-09-23
+535,  <p>Simply the best experience I've had so far.</p>  ,Positive,Chat Log,2025-09-25
+108,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-18
+751,"It's okay, nothing special.",Neutral,Email,2025-09-01
+340,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-10
+1074,The app crashed during payment.,Negative,Social Media,2025-09-24
+659,"  <p>Love the new update, everything is much smoother now! Highly recommend!</p>  ",Positive,Social Media,2025-09-29
+111,"It's okay, nothing special.",Neutral,Chat Log,2025-09-21
+17,The app crashed during payment.,Negative,Email,2025-09-17
+71,Customer service response time is too slow.,Negative,Chat Log,2025-09-11
+959,The website is very confusing to navigate.,Negative,Chat Log,2025-09-29
+437,The website is very confusing to navigate.,Negative,Email,2025-09-17
+132,Neutral feeling about the new features.,Neutral,Social Media,2025-09-12
+480,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Chat Log,2025-09-30
+581,The website is very confusing to navigate. Very disappointed.,Negative,Email,2025-09-11
+855,Neutral feeling about the new features. I might try it again.,Neutral,Social Media,2025-09-15
+763,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-13
+148,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-28
+579,Simply the best experience I've had so far. Highly recommend!,Positive,Email,2025-09-09
+440,The app crashed during payment.,Negative,Chat Log,2025-09-20
+949,  <p>The app crashed during payment.</p>  ,Negative,Email,2025-09-19
+964,The app crashed during payment.,Negative,Email,2025-09-04
+874,Simply the best experience I've had so far.,Positive,Email,2025-09-04
+22,Customer service response time is too slow.,Negative,Email,2025-09-22
+1086,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-06
+436,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-16
+645,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-15
+559,"It's okay, nothing special.",Neutral,Social Media,2025-09-19
+666,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-06
+50,Customer service response time is too slow.,Negative,Chat Log,2025-09-20
+523,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-13
+788,Customer service response time is too slow.,Negative,Email,2025-09-08
+78,The product arrived damaged and late. Very disappointed.,Negative,Email,2025-09-18
+656,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-26
+1045,Customer service response time is too slow.,Negative,Email,2025-09-25
+302,Simply the best experience I've had so far.,Positive,Social Media,2025-09-02
+991,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-01
+188,The product arrived damaged and late.,Negative,Email,2025-09-08
+725,Customer service response time is too slow.,Negative,Chat Log,2025-09-05
+486,"It's okay, nothing special.",Neutral,Chat Log,2025-09-06
+402,The app crashed during payment.,Negative,Email,2025-09-12
+947,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-17
+674,Simply the best experience I've had so far.,Positive,Email,2025-09-14
+356,The website is very confusing to navigate.,Negative,Social Media,2025-09-26
+938,  <p>I can't find the setting I need.</p>  ,Neutral,Email,2025-09-08
+83,The app crashed during payment.,Negative,Social Media,2025-09-23
+584,The website is very confusing to navigate.,Negative,Social Media,2025-09-14
+528,Customer service response time is too slow.,Negative,Chat Log,2025-09-18
+630,Excellent quality and fast delivery!,Positive,Social Media,2025-09-30
+1020,The app crashed during payment.,Negative,Chat Log,2025-09-30
+908,Excellent quality and fast delivery! Highly recommend!,Positive,Social Media,2025-09-08
+955,  <p>The website is very confusing to navigate.</p>  ,Negative,Chat Log,2025-09-25
+140,I can't find the setting I need.,Neutral,Social Media,2025-09-20
+724,Customer service response time is too slow.,Negative,Chat Log,2025-09-04
+284,Excellent quality and fast delivery! Highly recommend!,Positive,Chat Log,2025-09-14
+529,Customer service response time is too slow. Very disappointed.,Negative,Email,2025-09-19
+786,The website is very confusing to navigate.,Negative,Chat Log,2025-09-06
+739,Neutral feeling about the new features.,Neutral,Social Media,2025-09-19
+1079,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-29
+726,Customer service response time is too slow.,Negative,Chat Log,2025-09-06
+858,  <p>The website is very confusing to navigate. Very disappointed.</p>  ,Negative,Email,2025-09-18
+297,I can't find the setting I need. I might try it again.,Neutral,Social Media,2025-09-27
+927,"  <p>It's okay, nothing special.</p>  ",Neutral,Chat Log,2025-09-27
+339,The app crashed during payment.,Negative,Email,2025-09-09
+779,"It's okay, nothing special.",Neutral,Chat Log,2025-09-29
+944,Customer service response time is too slow.,Negative,Social Media,2025-09-14
+234,Simply the best experience I've had so far.,Positive,Social Media,2025-09-24
+177,Excellent quality and fast delivery! Highly recommend!,Positive,Chat Log,2025-09-27
+514,Neutral feeling about the new features. I might try it again.,Neutral,Email,2025-09-04
+960,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Social Media,2025-09-30
+447,"It's okay, nothing special.",Neutral,Social Media,2025-09-27
+795,The app crashed during payment.,Negative,Social Media,2025-09-15
+345,I can't find the setting I need.,Neutral,Chat Log,2025-09-15
+936,The product arrived damaged and late.,Negative,Chat Log,2025-09-06
+209,Excellent quality and fast delivery!,Positive,Social Media,2025-09-29
+1092,I can't find the setting I need.,Neutral,Chat Log,2025-09-12
+195,The product arrived damaged and late.,Negative,Social Media,2025-09-15
+966,The app crashed during payment. Very disappointed.,Negative,Chat Log,2025-09-06
+122,"Love the new update, everything is much smoother now!",Positive,Email,2025-09-02
+294,The product arrived damaged and late. Very disappointed.,Negative,Email,2025-09-24
+1070,The app crashed during payment.,Negative,Social Media,2025-09-20
+467,"It's okay, nothing special.",Neutral,Email,2025-09-17
+598,The product arrived damaged and late.,Negative,Email,2025-09-28
+605,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-05
+684,Simply the best experience I've had so far.,Positive,Chat Log,2025-09-24
+731,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-11
+715,,Positive,Social Media,2025-09-25
+257,I can't find the setting I need.,Neutral,Email,2025-09-17
+167,Simply the best experience I've had so far.,Positive,Email,2025-09-17
+23,"It's okay, nothing special.",Neutral,Social Media,2025-09-23
+825,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-15
+896,"It's okay, nothing special. I might try it again.",Neutral,Chat Log,2025-09-26
+1078,The website is very confusing to navigate.,Negative,Social Media,2025-09-28
+596,The app crashed during payment.,Negative,Social Media,2025-09-26
+472,I can't find the setting I need.,Neutral,Social Media,2025-09-22
+306,The website is very confusing to navigate.,Negative,Social Media,2025-09-06
+53,The product arrived damaged and late.,Negative,Email,2025-09-23
+341,Simply the best experience I've had so far. Highly recommend!,Positive,Chat Log,2025-09-11
+70,I can't find the setting I need.,Neutral,Chat Log,2025-09-10
+165,The website is very confusing to navigate.,Negative,Social Media,2025-09-15
+381,  <p>Customer service response time is too slow.</p>  ,Negative,Social Media,2025-09-21
+800,Excellent quality and fast delivery!,Positive,Social Media,2025-09-20
+679,I can't find the setting I need.,Neutral,Social Media,2025-09-19
+1011,I can't find the setting I need.,Neutral,Email,2025-09-21
+1095,The product arrived damaged and late.,Negative,Chat Log,2025-09-15
+1068,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Social Media,2025-09-18
+468,"Love the new update, everything is much smoother now!",Positive,Social Media,2025-09-18
+368,I can't find the setting I need.,Neutral,Chat Log,2025-09-08
+258,The product arrived damaged and late.,Negative,Social Media,2025-09-18
+80,Neutral feeling about the new features.,Neutral,Social Media,2025-09-20
+192,I can't find the setting I need.,Neutral,Chat Log,2025-09-12
+333,The app crashed during payment.,Negative,Email,2025-09-03
+3,Customer service response time is too slow.,Negative,Email,2025-09-03
+998,The website is very confusing to navigate.,Negative,Chat Log,2025-09-08
+407,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-17
+169,The product arrived damaged and late.,Negative,Chat Log,2025-09-19
+909,  <p>The product arrived damaged and late.</p>  ,Negative,Email,2025-09-09
+353,Excellent quality and fast delivery! Highly recommend!,Positive,Social Media,2025-09-23
+693,Neutral feeling about the new features.,Neutral,Chat Log,2025-09-03
+1017,Simply the best experience I've had so far. Highly recommend!,Positive,Social Media,2025-09-27
+412,Neutral feeling about the new features.,Neutral,Social Media,2025-09-22
+107,I can't find the setting I need.,Neutral,Chat Log,2025-09-17
+278,Simply the best experience I've had so far.,Positive,Email,2025-09-08
+27,The product arrived damaged and late.,Negative,Chat Log,2025-09-27
+770,Simply the best experience I've had so far. Highly recommend!,Positive,Social Media,2025-09-20
+150,"It's okay, nothing special.",Neutral,Email,2025-09-30
+61,"Love the new update, everything is much smoother now! Highly recommend!",Positive,Social Media,2025-09-01
+276,The website is very confusing to navigate.,Negative,Social Media,2025-09-06
+771,The app crashed during payment.,Negative,Email,2025-09-21
+10,Excellent quality and fast delivery!,Positive,Social Media,2025-09-10
+240,I can't find the setting I need.,Neutral,Chat Log,2025-09-30
+201,"It's okay, nothing special.",Neutral,Chat Log,2025-09-21
+255,I can't find the setting I need.,Neutral,Chat Log,2025-09-15
+360,Excellent quality and fast delivery!,Positive,Social Media,2025-09-30
+1048,"  <p>It's okay, nothing special.</p>  ",Neutral,Email,2025-09-28
+636,The product arrived damaged and late.,Negative,Chat Log,2025-09-06
+732,The website is very confusing to navigate. Very disappointed.,Negative,Chat Log,2025-09-12
+77,"It's okay, nothing special. I might try it again.",Neutral,Chat Log,2025-09-17
+282,The website is very confusing to navigate.,Negative,Social Media,2025-09-12
+98,Excellent quality and fast delivery!,Positive,Chat Log,2025-09-08
+587,"Love the new update, everything is much smoother now!",Positive,Chat Log,2025-09-17
+439,Customer service response time is too slow.,Negative,Chat Log,2025-09-19
+86,  <p>Excellent quality and fast delivery!</p>  ,Positive,Email,2025-09-26
+251,The app crashed during payment. Very disappointed.,Negative,Social Media,2025-09-11
+230,"It's okay, nothing special.",Neutral,Chat Log,2025-09-20
